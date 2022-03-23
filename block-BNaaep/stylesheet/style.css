@@ -1,0 +1,18 @@
+main{
+    text-align: center;
+    width: 700px;
+    margin: 0 auto;
+}
+
+img{
+    width: 100%;
+}
+
+.img-div{
+    width: 200px;
+}
+
+.cards{
+    display: flex;
+    justify-content: space-between;
+}
